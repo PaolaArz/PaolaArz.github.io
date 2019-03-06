@@ -9,14 +9,14 @@ body {
   margin: 2em;
 }
 
-main.startup {
+header.startup {
 	background-image: url("startUp.jpg");
 	background-size: cover;
 	height: 100%;
 	background-position: center;
 }
 
-main.startup h1 {
+header.startup h1 {
 	color: #644F6B;
 	font-size: 2.5rem; 
 	text-shadow: 1px 1px #140F16;
