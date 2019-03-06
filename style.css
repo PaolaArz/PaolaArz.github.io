@@ -28,7 +28,6 @@ header.startup h1 {
 	font-family: : "Montserrat", sans-serif;
 }
 
-
 .btn-secondary {
 	background-color: #644F6B;
 	box-shadow: 4px 4px 6px #140F16;
@@ -36,7 +35,6 @@ header.startup h1 {
 	color: #2C1D31;
 	text-shadow: 1px #140F16;
 }
-
 
 .btn:hover {
 	background-color: #2C1D31;
